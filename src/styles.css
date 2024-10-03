@@ -1,1 +1,39 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+/*color variables*/
+:root {
+  --primary-color: #0343DF;
+  --secondary-color: #FFC107;
+  --body-text-color: #596392;
+  --navbar-footer-color: #f9f9f9;
+}
+
+/*global styles*/
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 12px;
+  color: var(--body-text-color);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

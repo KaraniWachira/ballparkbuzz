@@ -5,32 +5,39 @@ import {SinglePostComponent} from "./pages/single-post/single-post.component";
 import {AboutComponent} from "./pages/about/about.component";
 import {TermsAndConditionsComponent} from "./pages/terms-and-conditions/terms-and-conditions.component";
 import {ContactUsComponent} from "./pages/contact-us/contact-us.component";
+import {HomeComponent} from "./pages/home/home.component";
 
 export const routes: Routes = [
   {
     path: '',
-    component: AppComponent,
+    component: HomeComponent,
+    title: 'Home page'
   },
   {
     path: 'category',
-    component: SingleCategoryComponent
+    component: SingleCategoryComponent,
+    title: 'Category page'
   },
   {
     path:'post',
-    component: SinglePostComponent
+    component: SinglePostComponent,
+    title: 'Post page'
   },
 
   {
     path: 'about',
-    component: AboutComponent
+    component: AboutComponent,
+    title: 'About page'
   },
   {
     path: 'terms-and-conditions',
-    component: TermsAndConditionsComponent
+    component: TermsAndConditionsComponent,
+    title: 'terms and conditions page'
   },
   {
     path: 'contact',
-    component: ContactUsComponent
+    component: ContactUsComponent,
+    title: 'Contact page'
   }
 ];
 
