@@ -1,4 +1,5 @@
-# BallparkBuzz: A Web Application for Kenyan Baseball and Softball Enthusiasts
+# Diamond Digest 
+A Web Application for Kenyan Baseball and Softball Enthusiasts
 
 ### Where the fun never strikes out!
 
