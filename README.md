@@ -3,7 +3,7 @@ A Web Application for Kenyan Baseball and Softball Enthusiasts
 
 ### Where the fun never strikes out!
 
-A web application built using Angular, Bootstrap, and Firestore DB, hosted on Firebase Hosting. BallparkBuzz aims to provide the latest news, updates, and analysis on the Nairobi Baseball Community League, Softball National League, Little League Kenya, and Baseball 5 League.
+A web application built using Angular, Bootstrap, and Firestore DB, hosted on Firebase Hosting. Diamond Digest aims to provide the latest news, updates, and analysis on the Nairobi Baseball Community League, Softball National League, Little League Kenya, and Baseball 5 League.
 
 #### Features:
 
@@ -20,7 +20,7 @@ A web application built using Angular, Bootstrap, and Firestore DB, hosted on Fi
 - Hosting: Firebase Hosting
 
 
-#### Contributions are welcome! If you'd like to help improve BallparkBuzz, please submit a pull request or issue.
+#### Contributions are welcome! If you'd like to help improve Diamond Digest, please submit a pull request or issue.
 
 
 
