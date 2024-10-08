@@ -1,7 +1,4 @@
-# Diamond Digest 
-A Web Application for Kenyan Baseball and Softball Enthusiasts
 
-### Where the fun never strikes out!
 
 A web application built using Angular, Bootstrap, and Firestore DB, hosted on Firebase Hosting. Diamond Digest aims to provide the latest news, updates, and analysis on the Nairobi Baseball Community League, Softball National League, Little League Kenya, and Baseball 5 League.
 
