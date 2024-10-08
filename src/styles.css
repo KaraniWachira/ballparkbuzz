@@ -36,6 +36,14 @@ body {
   background-color: var(--primary-color);
 }
 
+.bg-secondary-theme {
+  background-color: var(--secondary-color);
+}
+
+.text-theme-primary {
+  color: var(--primary-color);
+}
+
 input [text], input[email] {
   height: 60px;
   padding-left: 20px;
@@ -49,6 +57,8 @@ input [text], input[email] {
   font-size: 20px;
   background-color: var(--primary-color);
 }
+
+
 
 
 
